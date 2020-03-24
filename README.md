@@ -1,2 +1,1 @@
-# android
-game
+# Connect Four Game on Android Platform
